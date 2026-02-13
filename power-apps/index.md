@@ -1,4 +1,4 @@
-# 📱 Power Apps Projects
+# 📱 Power Apps Project
 
 These applications automate processes, improve data capture, and streamline operations.
 
