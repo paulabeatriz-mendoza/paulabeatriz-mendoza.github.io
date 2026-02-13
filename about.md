@@ -16,5 +16,5 @@ I create modern digital solutions that:
 - Improve decision-making  
 
 ## 📬 Contact
-- **Email:** yourname@email.com
-- **LinkedIn:** https://linkedin.com/in/yourprofile
+- **Email:** pbeatriz.mendoza@gmail.com
+- **LinkedIn:** www.linkedin.com/in/pbeatrizmendoza
