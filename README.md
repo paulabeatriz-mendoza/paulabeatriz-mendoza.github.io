@@ -1,4 +1,4 @@
-# Hi, I'm Paula 👋
+# Hi, I'm Darling 👋
 ### Power BI • Business Intelligence • Python • SQL
 
 Welcome to my portfolio! I design dashboards and business applications that help teams make better decisions and automate manual processes.
