@@ -1,8 +1,3 @@
----
-layout: default
-title: Power BI Project – Financial Performance Dashboard
----
-
 # 📊 Financial Dashboard
 
 ## 🔎 Project Overview
