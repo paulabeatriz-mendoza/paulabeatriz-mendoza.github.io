@@ -13,7 +13,7 @@ I’m passionate about turning raw data and manual processes into meaningful ins
 
 ## 🚀 Featured Projects
 
-### 📊 Power BI – Sales Performance Dashboard  
+### 📊 Power BI – Financial Dashboard  
 ➡️ [View Project](power-bi/project1.md)
 
 ### 📱 Power Apps – Request Management App  
