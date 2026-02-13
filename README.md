@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Hi, I'm Paula 👋
 ### Power BI • Power Apps • Automation
 
