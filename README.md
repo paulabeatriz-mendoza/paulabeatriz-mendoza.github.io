@@ -14,14 +14,13 @@ I’m passionate about turning raw data and manual processes into meaningful ins
 ## 🚀 Featured Projects
 
 ### 📊 Power BI – Financial Dashboard
-# 📊 Financial Dashboard
 
-## 🔎 Project Overview
+#### 🔎 Project Overview
 This provides a consolidated, real‑time view of an organization’s financial health, enabling stakeholders to monitor key performance indicators (KPIs), track trends, and make data‑driven decisions. It transforms complex financial data into clear, actionable insights through visualizations such as charts, tables, and summary metrics.
 
 ---
 
-## 🧩 Business Problem
+#### 🧩 Business Problem
 Financial data was scattered across multiple files, making it difficult for managers to:
 - Revenue & Revenue Growth
 - Operating Expenses
@@ -34,6 +33,8 @@ Financial data was scattered across multiple files, making it difficult for mana
 The goal was to centralize all financial data and build an interactive dashboard that tells a clear story.
 
 ➡️ [View this Project to know more](power-bi/project1.md)
+
+---
 
 ### 📱 Power Apps – Request Management App  
 ➡️ [View App](power-apps/app1.md)
